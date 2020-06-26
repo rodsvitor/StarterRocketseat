@@ -1,0 +1,15 @@
+[submodule "javascript-starter-rocketseat"]
+	path = javascript-starter-rocketseat
+	url = https://github.com/rodsvitor/javascript-starter-rocketseat.git
+[submodule "nodejs-starter-rocketseat"]
+	path = nodejs-starter-rocketseat
+	url = https://github.com/rodsvitor/nodejs-starter-rocketseat.git
+[submodule "es6-starter-rocketseat"]
+	path = es6-starter-rocketseat
+	url = https://github.com/rodsvitor/es6-starter-rocketseat.git
+[submodule "reactnative-starter-rocketseat"]
+	path = reactnative-starter-rocketseat
+	url = https://github.com/rodsvitor/reactnative-starter-rocketseat.git
+[submodule "live-git-github-rocketseat"]
+	path = live-git-github-rocketseat
+	url = https://github.com/rodsvitor/live-git-github-rocketseat.git
